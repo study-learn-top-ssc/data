@@ -3,7 +3,7 @@
 		<medium name="English" sub_name="Medium">
 			<subject name="Mathematics- I " book_cover="/0_NEW_APP_DATA/class_9/images/903000608.jpg">
 				<chapter name="1 Sets">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (1).pdf"/>
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/901000608 (1).pdf"/>
 					<solutions name="Exercise solutions">
 						<solution name="Practice Set 1.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_1 (1).pdf"/>
 						<solution name="Practice Set 1.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_1 (2).pdf"/>
@@ -13,7 +13,7 @@
 					</solutions>
 				</chapter>
 				<chapter name="2 Real Numbers">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (2).pdf"/>
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/901000608 (2).pdf"/>
 					<solutions name="Exercise solutions">
 						<solution name="Practice Set 2.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_2 (1).pdf"/>
 						<solution name="Practice Set 2.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_2 (2).pdf"/>
@@ -24,7 +24,7 @@
 					</solutions>
 				</chapter>
 				<chapter name="3 Polynomials">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (3).pdf"/>
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/901000608 (3).pdf"/>
 					<solutions name="Exercise solutions">
 						<solution name="Practice Set 3.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_3 (1).pdf"/>
 						<solution name="Practice Set 3.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_3 (2).pdf"/>
@@ -36,7 +36,7 @@
 					</solutions>
 				</chapter>
 				<chapter name="4 Ratio and Proportion">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (4).pdf"/>
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/901000608 (4).pdf"/>
 					<solutions name="Exercise solutions">
 						<solution name="Practice Set 4.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_4 (1).pdf"/>
 						<solution name="Practice Set 4.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_4 (2).pdf"/>
@@ -47,7 +47,7 @@
 					</solutions>
 				</chapter>
 				<chapter name="5 Linear Equations in Two Variables">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (5).pdf"/>
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/901000608 (5).pdf"/>
 					<solutions name="Exercise solutions">
 						<solution name="Practice Set 5.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_5 (1).pdf"/>
 						<solution name="Practice Set 5.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_5 (2).pdf"/>
@@ -55,7 +55,7 @@
 					</solutions>
 				</chapter>
 				<chapter name="6 Financial Planning">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (6).pdf"/>
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/901000608 (6).pdf"/>
 					<solutions name="Exercise solutions">
 						<solution name="Practice Set 6.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_6 (1).pdf"/>
 						<solution name="Practice Set 6.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_6 (2).pdf"/>
@@ -63,7 +63,7 @@
 					</solutions>
 				</chapter>
 				<chapter name="7 Statistics">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (7).pdf"/>
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/901000608 (7).pdf"/>
 					<solutions name="Exercise solutions">
 						<solution name="Practice Set 7.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_7 (1).pdf"/>
 						<solution name="Practice Set 7.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_7 (2).pdf"/>
@@ -74,10 +74,10 @@
 					</solutions>
 				</chapter>
 				<chapter name="8 Challenging Questions">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (8).pdf"/>
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/901000608 (8).pdf"/>
 				</chapter>
 				<chapter name="9 Model Activity Sheet">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (9).pdf"/>
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/901000608 (9).pdf"/>
 				</chapter>
 			</subject>
 			<subject name="Mathematics- II " book_cover="/0_NEW_APP_DATA/class_9/images/903000609.jpg">
