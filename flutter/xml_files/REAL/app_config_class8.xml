@@ -313,30 +313,57 @@
 <chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020456 (19).pdf"/>
 </chapter>
 </subject>
-<subject name="गणित भाग १" book_cover="/0_NEW_APP_DATA/class_8/images/801020004.jpg">
-<chapter name="1. संच">
+<subject name="गणित " book_cover="/0_NEW_APP_DATA/class_8/images/801020004.jpg">
+<chapter name="1. परिमेय व अपरिमेय संख्या ">
 <chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (1).pdf"/>
 </chapter>
-<chapter name="2. वास्तव संख्या">
+<chapter name="2. समांतर रेषा व छेदिका ">
 <chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (2).pdf"/>
 </chapter>
-<chapter name="3. बहुपदी">
+<chapter name="3. घातांक व घनमूळ">
 <chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (3).pdf"/>
 </chapter>
-<chapter name="4. गुणोत्तर व प्रमाण">
+<chapter name="4. त्रिकोणाचे शिरोलंब व मध्यगा ">
 <chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (4).pdf"/>
 </chapter>
-<chapter name="5. दोन चलांतील रेषीय समीकरणे">
+<chapter name="5. विस्तार सूत्रे">
 <chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (5).pdf"/>
 </chapter>
-<chapter name="6. अर्थनियोजन">
+<chapter name="6. बैजिक राशींचे अवयव">
 <chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (6).pdf"/>
 </chapter>
-<chapter name="7. सांख्यिक">
+<chapter name="7. चलन ">
 <chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (7).pdf"/>
 </chapter>
-<chapter name="उत्तरसूची ">
+<chapter name="8. चौकोन रचना व चौकोनाचे प्रकार">
 <chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (8).pdf"/>
+</chapter>
+<chapter name="9. 9. सूट व कमिशन ">
+<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (9).pdf"/>
+</chapter>
+<chapter name="10. बहुपदींचा भागाकार">
+<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (10).pdf"/>
+</chapter>
+<chapter name="11. चौकोन रचना व चौकोनाचे प्रकार">
+<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (11).pdf"/>
+</chapter>
+<chapter name="12. एकचल समीकरणे">
+<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (12).pdf"/>
+</chapter>
+<chapter name="13 त्रिकोणांची एकरुपता">
+<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (13).pdf"/>
+</chapter>
+<chapter name="14. चक्रवाढ व्याज ">
+<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (14).pdf"/>
+</chapter>
+<chapter name="15. क्षेत्रफळ ">
+<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (15).pdf"/>
+</chapter>
+<chapter name="16. पृष्ठफळ व घनफळ">
+<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (16).pdf"/>
+</chapter>
+<chapter name="17. वर्तुळ - जीवा व कंस">
+<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_8/marathi/chapter_pdf/801020004 (17).pdf"/>
 </chapter>
 </subject>
 
